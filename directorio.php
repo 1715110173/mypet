@@ -33,13 +33,7 @@
         <ul class="nav navbar-nav">
     	<li><a href="directorio.php">DIRECTORIO</a></li>
     	<li><a href="enviar.html">MENSAJES</a></li>
-   		<li><a href="agenda.php">AGENDA</a></li>
-        <form class="navbar-form navbar-right">
-      	<div class="form-group">
-        <input type="text" class="form-control" placeholder="Search">
-    	</div>
-    	<button type="submit" class="btn btn-default">Buscar</button>
-    	</form>
+		<li><a href="agenda.php">AGENDA</a></li>
     	</ul>
         </div>
         </div>
